@@ -1,7 +1,6 @@
 # Olá, eu sou o Eduardo Muchak! 👋
 
 🌱 Atualmente estudante de Desenvolvimento Web na Trybe<br>
-😄 Pronomes: ele/dele
 
 <div align="left">
   <a href="https://github.com/eduardomuchak">
