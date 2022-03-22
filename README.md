@@ -1,6 +1,10 @@
-# Olá, eu sou o Eduardo Muchak! 👋
+# Hi there! 👋
 
-🌱 Atualmente estudante de Desenvolvimento Web na Trybe<br>
+I'm Eduardo, and my focus is to be a web developer programmer that can beat good challanges and solve problems. I'm passionate about technology and how it can be an incredible tool to change people's lives.
+
+* I'm currently a student at Trybe, which is a programming school that teaches us how to learn the right way and how to solve problems using programming logic with baby steps.
+* I'm currently learn React and React Test Library.
+* I already had experience with HTML, CSS, Javascript ES6 and Jest.
 
 <div align="left">
   <a href="https://github.com/eduardomuchak">
@@ -19,4 +23,3 @@
   <a href="https://www.linkedin.com/in/eduardomuchak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduardomuchak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
