@@ -46,3 +46,5 @@ I'm Eduardo, and my focus is to be a web developer programmer that can beat good
   <img align="center" alt="Trello Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="VSCODE Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=eduardomuchak)
