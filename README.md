@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=eduardomuchak)
+</br>
+
 # Hi there! 👋
 
 I'm Eduardo, and my focus is to be a web developer programmer that can beat good challanges and solve problems. I'm passionate about technology and how it can be an incredible tool to change people's lives.
@@ -46,5 +49,3 @@ I'm Eduardo, and my focus is to be a web developer programmer that can beat good
   <img align="center" alt="Trello Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="VSCODE Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
-
-![](https://komarev.com/ghpvc/?username=eduardomuchak)
