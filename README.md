@@ -53,15 +53,15 @@ I'm Eduardo, and my focus is to be a web developer programmer that can beat good
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 23 December 2022
+From: 19 April 2022 - To: 24 December 2022
 
-Total Time: 1,529 hrs 42 mins
+Total Time: 1,537 hrs 28 mins
 
-TypeScript   1,029 hrs 35 mins>>>>>>>>>>>>>>>>>--------   67.31 %
-JavaScript   321 hrs 13 mins >>>>>--------------------   21.00 %
-JSON         29 hrs 54 mins  -------------------------   01.96 %
-Bash         29 hrs 49 mins  -------------------------   01.95 %
-Other        29 hrs 16 mins  -------------------------   01.91 %
+TypeScript   1,035 hrs 43 mins>>>>>>>>>>>>>>>>>--------   67.37 %
+JavaScript   321 hrs 42 mins >>>>>--------------------   20.92 %
+JSON         30 hrs 10 mins  -------------------------   01.96 %
+Bash         29 hrs 49 mins  -------------------------   01.94 %
+Other        29 hrs 16 mins  -------------------------   01.90 %
 ```
 
 <!--END_SECTION:waka-->
