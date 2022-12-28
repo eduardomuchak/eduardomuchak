@@ -53,7 +53,7 @@ I'm Eduardo, and my focus is to be a web developer programmer that can beat good
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 25 December 2022
+From: 19 April 2022 - To: 26 December 2022
 
 Total Time: 1,537 hrs 28 mins
 
