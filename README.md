@@ -1,12 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=eduardomuchak)
 </br>
 
-# Hi there! 👋
+# Olá! 👋
 
-I'm Eduardo, and my focus is to be a web developer programmer that can beat good challanges and solve problems. I'm passionate about technology and how it can be an incredible tool to change people's lives.
+Sou um desenvolvedor apaixonado por aprendizado e sempre busco maneiras de me aprimorar e crescer na minha carreira. Acredito que o conhecimento e a sabedoria são os principais fatores para melhorar nossas vidas e, por isso, tenho uma grande paixão pelo mundo da tecnologia.
 
-* I'm currently a student at Trybe, which is a programming school that teaches us how to learn the right way and how to solve problems using programming logic with baby steps.
-* I am currently in the backend module of the Trybe course where I will learn technologies such as Docker, MySQL, MongoDB, NodeJS, Express, Sequelize, Typescript and Object Oriented Programming (OOP).
+Ao longo do tempo, tive o privilégio de trabalhar e estudar uma ampla gama de tecnologias de desenvolvimento web, incluindo HTML, CSS, JavaScript, testes unitários com Jest, versionamento de código com Git, GitHub e Azure DevOps, e desenvolvimento e consumo de APIs no padrão Restful com Node.js, Sequelize e TypeScript. Atualmente, sou desenvolvedor front-end e estou sempre buscando me aprimorar nas áreas de desenvolvimento front-end, testes automatizados e experiência do usuário (UX). Para isso, tenho trabalhado com tecnologias como React, React Native, Redux Toolkit, ContextAPI, React Testing Library e várias outras bibliotecas para ajudar a otimizar o processo de solução de problemas, como Formik e Yup para gerenciamento e validação de formulários, React Query para requisições ao back-end, entre outras. Estou ansioso para continuar aprendendo e crescendo em minha carreira como desenvolvedor.
 
 ##
 
