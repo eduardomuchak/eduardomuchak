@@ -21,12 +21,6 @@ I'm Eduardo, and my focus is to be a web developer programmer that can beat good
 </div>
 
 </br>
-
-<div align="center">
-  <a href="https://github.com/eduardomuchak">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardomuchak&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomuchak&layout=compact&langs_count=7&theme=react"/> 
-</div>
   
 </br>
   
