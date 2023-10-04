@@ -48,7 +48,7 @@ Ao longo do tempo, tive o privilégio de trabalhar e estudar uma ampla gama de t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 01 October 2023
+From: 19 April 2022 - To: 02 October 2023
 
 Total Time: 2,867 hrs 51 mins
 
