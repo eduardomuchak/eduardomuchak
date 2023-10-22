@@ -48,15 +48,15 @@ Ao longo do tempo, tive o privilégio de trabalhar e estudar uma ampla gama de t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 19 October 2023
+From: 19 April 2022 - To: 20 October 2023
 
-Total Time: 2,923 hrs 39 mins
+Total Time: 2,934 hrs 48 mins
 
-TypeScript        2,192 hrs 38 mins>>>>>>>>>>>>>>>>>>>------   75.00 %
-JavaScript        369 hrs 25 mins >>>----------------------   12.64 %
-JSON              123 hrs 44 mins >------------------------   04.23 %
-Bash              56 hrs 58 mins  -------------------------   01.95 %
-Other             39 hrs 44 mins  -------------------------   01.36 %
+TypeScript        2,199 hrs 8 mins>>>>>>>>>>>>>>>>>>>------   74.93 %
+JavaScript        370 hrs 14 mins >>>----------------------   12.62 %
+JSON              127 hrs 5 mins  >------------------------   04.33 %
+Bash              56 hrs 58 mins  -------------------------   01.94 %
+Other             39 hrs 44 mins  -------------------------   01.35 %
 ```
 
 <!--END_SECTION:waka-->
