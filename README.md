@@ -48,9 +48,9 @@ Ao longo do tempo, tive o privilégio de trabalhar e estudar uma ampla gama de t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 08 December 2024
+From: 19 April 2022 - To: 09 December 2024
 
-Total Time: 5,692 hrs 30 mins
+Total Time: 5,692 hrs 35 mins
 
 TypeScript                 3,550 hrs 53 mins>>>>>>>>>>>>>>>>---------   62.38 %
 Dart                       1,126 hrs 51 mins>>>>>--------------------   19.80 %
