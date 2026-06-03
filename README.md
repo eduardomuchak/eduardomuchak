@@ -1,24 +1,32 @@
-# Olá! 👋
+### Hey, I'm Eduardo 👋
 
-Sou um desenvolvedor apaixonado por aprendizado e sempre busco maneiras de me aprimorar e crescer na minha carreira. Acredito que o conhecimento e a sabedoria são os principais fatores para melhorar nossas vidas e, por isso, tenho uma grande paixão pelo mundo da tecnologia.
+> I build products, not just features — Full Stack & Product Engineer working at the edge of GenAI and pharma tech.
 
-Ao longo do tempo, tive o privilégio de trabalhar e estudar uma ampla gama de tecnologias de desenvolvimento web, incluindo HTML, CSS, JavaScript, testes unitários com Jest, versionamento de código com Git, GitHub e Azure DevOps, e desenvolvimento e consumo de APIs no padrão Restful com Node.js, Sequelize e TypeScript. Atualmente, sou desenvolvedor front-end e estou sempre buscando me aprimorar nas áreas de desenvolvimento front-end, testes automatizados e experiência do usuário (UX). Para isso, tenho trabalhado com tecnologias como React, React Native, Redux Toolkit, ContextAPI, React Testing Library e várias outras bibliotecas para ajudar a otimizar o processo de solução de problemas, como Formik e Yup para gerenciamento e validação de formulários, React Query para requisições ao back-end, entre outras. Estou ansioso para continuar aprendendo e crescendo em minha carreira como desenvolvedor.
+Based in Brazil 🇧🇷. Currently at **[Deepful](https://deepful.ai)**, leading engineering on a suite of AI products serving **38k+ users across 10 countries** — with 2.1M+ minutes of spoken AI interactions delivered.
 
-##
+My work spans RAG-based document platforms, LLM integrations, AI-generated audio pipelines, and compliance-critical pharmacovigilance systems. I stay close to the customer: product demos, discovery sessions, feedback cycles, architecture decisions tied to business outcomes.
+
+---
+
+**Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+**Coding activity** *(tracked since October 2021 · 10,258+ hours)*
+
 </br>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 19 April 2022 - To: 01 June 2026
-
-Total Time: 9,258 hrs 6 mins
-
-TypeScript                 4,506 hrs 21 mins     >>>>>>>>>>>>-------------   48.67 %
-Dart                       2,964 hrs 19 mins     >>>>>>>>-----------------   32.02 %
-JavaScript                 424 hrs 43 mins       >------------------------   04.59 %
-JSON                       338 hrs 53 mins       >------------------------   03.66 %
-Python                     270 hrs 28 mins       >------------------------   02.92 %
-```
-
-<!--END_SECTION:waka-->
